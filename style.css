@@ -365,9 +365,9 @@ a img.aligncenter {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #000;
+    background-color: #ffffff;
     z-index: 0;
-    opacity: 0.3;
+    opacity: 0.6;
 }
 .heading{
 	color: #fff;
