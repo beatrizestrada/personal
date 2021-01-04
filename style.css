@@ -139,6 +139,10 @@ a {
     outline: none;
 }
 
+a:hover {
+  color: #ff9966;
+}
+
 a,
 .btn {
     text-decoration: none !important;
