@@ -129,7 +129,8 @@ h3 a:hover,
 h4 a:hover,
 h5 a:hover,
 h6 a:hover {
-    opacity: .8
+    opacity: .8;
+    color: #ff9966;
 }
 
 a {
