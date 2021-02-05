@@ -1968,9 +1968,9 @@ select.mobile-device {
 .contact_form .form-control::-ms-input-placeholder {
     color: #bcbcbc;
 }
-
-
-
+#contact {
+    background: #333333;
+}
 
 #contact .section-title p{
 	color: #ffffff;
