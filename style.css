@@ -373,7 +373,7 @@ a img.aligncenter {
 	color: #fff;
 	display: table-cell;
 	vertical-align: middle;
-	position: relative;
+	position: absolute;
 	z-index: 1;
 }
 .heading h1{
