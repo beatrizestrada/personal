@@ -350,17 +350,17 @@ a img.aligncenter {
 
 .main-banner{
 	height: 100%;
-	position: static;
+	position: absolute;
 }
 
 .main-banner{
 	display: table;
-    width: 100%;
+       width: 100%;
 	text-align: center;
 }
 .main-banner::after {
     content: " ";
-    position: absolute;
+    position: static;
     top: 10;
     bottom: 0;
     left: 0;
@@ -373,6 +373,7 @@ a img.aligncenter {
 	color: #fff;
 	display: table-cell;
 	vertical-align: middle;
+	horizontal-align: center;
 	position: static;
 	z-index: 1;
 }
@@ -384,7 +385,7 @@ a img.aligncenter {
 }
 .heading p{
 	font-size: 18px;
-	padding: 20px 0px;
+	padding: 50px 0px;
 }
 
 .heading h3{
